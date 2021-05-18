@@ -46,7 +46,6 @@
     "cypress": "6.9.1",
     "jest": "^24.9.0",
     "netlify-cli": "3.29.17",
-    "netlify-plugin-cypress": "^2.2.0",
     "prettier": "2.2.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",

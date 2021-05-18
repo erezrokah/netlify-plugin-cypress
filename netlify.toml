@@ -7,5 +7,4 @@ publish = "public"
   TERM = "xterm"
   CYPRESS_CACHE_FOLDER = "./node_modules/CypressBinary"
 
-[[plugins]]
-package = "netlify-plugin-cypress"
+
